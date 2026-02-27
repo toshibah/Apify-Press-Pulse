@@ -1,0 +1,5 @@
+{
+  "name": "PressPulse",
+  "description": "Track mentions of companies, people, and brands across the web with real-time news monitoring and sentiment analysis.",
+  "requestFramePermissions": []
+}
